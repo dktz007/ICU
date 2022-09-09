@@ -1,4 +1,3 @@
-# I C U
-# U C M
-# W C @
-# S P 0 M3
+# I C U - U C M
+W C @
+S P Y 0 M3
